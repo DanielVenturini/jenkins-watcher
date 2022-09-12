@@ -1,1 +1,1 @@
-# jenkins-watcher
+# j-watcher
